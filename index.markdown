@@ -7,6 +7,6 @@ layout: home
 title: Home
 ---
 
-Want to learn more have a look at my [resume](/assests/resume.pdf)
+Want to learn more have a look at my [resume](/assets/resume.pdf)
 
 
