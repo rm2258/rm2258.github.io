@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+This is a work in progress at the moment, but please take a look at my [LinkedIn](https://www.linkedin.com/in/ramon-mendoza-uriarte) in the meantime!
+
+Also this was built with Jekyll, which you can learn about from:
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
