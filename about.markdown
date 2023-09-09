@@ -2,9 +2,17 @@
 layout: page
 title: About
 permalink: /about/
+resume_file: "/assets/resume.pdf"
+
+order: 2
 ---
 
-This is a work in progress at the moment, but please take a look at my [LinkedIn](https://www.linkedin.com/in/ramon-mendoza-uriarte) in the meantime!
+{{ site.description }}
+
+### Want to learn more have a look at my resume:
+
+
+{% pdf {{ page.resume_file }} no_link %}
 
 Also this was built with Jekyll, which you can learn about from:
 

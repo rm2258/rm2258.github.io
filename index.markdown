@@ -5,8 +5,8 @@
 layout: home
 
 title: Home
+order: 1
 ---
 
-Want to learn more have a look at my [resume](/assets/resume.pdf)
 
 
