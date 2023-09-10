@@ -37,7 +37,6 @@ linkedin: "https://www.linkedin.com/in/ramon-mendoza-uriarte"
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-pdf-embed
 
 # Static files settings
 

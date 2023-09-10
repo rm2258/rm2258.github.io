@@ -11,8 +11,7 @@ order: 2
 
 ### Want to learn more have a look at my resume:
 
-
-{% pdf {{ page.resume_file }} no_link %}
+{% include embedpdf.html file="/assets/resume.pdf" w="750" h="950" %}
 
 Also this was built with Jekyll, which you can learn about from:
 
