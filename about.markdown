@@ -5,6 +5,7 @@ permalink: /about/
 resume_file: "/assets/resume.pdf"
 
 order: 2
+footer: true
 ---
 
 {{ site.description }}
