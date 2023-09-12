@@ -10,10 +10,9 @@ footer: true
 ---
 
 Welcome, to my project site! Here I showcase, in no particular order, snippets
-of various projects that I have worked on over the years that intrigue me. 
+of various projects that I have worked on over the years. 
 You will find here
 snippets of code and atomistic simulation work that I hope you will enjoy.
-If you want to learn more about me and my background, please visit my 
-[about me page]({{ site.url }}/about/).
-
+Please visit my 
+about page if you want to learn more [about me]({{ site.url }}/about/).
 

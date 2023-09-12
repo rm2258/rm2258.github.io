@@ -15,7 +15,7 @@ theoretical Chemistry researcher. I work on force field development, with
 special interest in studying ion-protein interactions. 
 
 Broadly, I am interested in applying methodology to biological systems
-and materials with emphasis on advancing health and advancing renewable energy
+and materials with emphasis on advancing health and renewable energy
 efforts.
 I am strongly proficient in the use of most mainstream molecular dynamics 
 packages and their associated tools, e.g., NAMD, Charmm, and Amber. 
