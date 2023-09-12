@@ -23,11 +23,6 @@ ft_title: Contact List
 author: Ramon Mendoza Uriarte
 email: ramendoza@uchicago.edu
 linkedin_username: ramon-mendoza-uriarte
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a theoretical Chemistry researcher with interests in applying methodology to biological systems with emphasis on advancing health.
-  I am strongly proficient in the use of most mainstream molecular dynamics packages and their associated tools, e.g., NAMD, Charmm, 
-  and Amber. Additionally, I am proficient in programming with various code, e.g. python and Tcl, and analyzing large datasets with 
-  python.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rm2258

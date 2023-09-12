@@ -8,23 +8,21 @@ order: 2
 footer: true
 ---
 
-{{ site.description }}
+I am a PhD candidate in the Department of Chemistry at the 
+**University of Chicago**. I work in the lab of Professor **Ben&#238;ot Roux**
+as a 
+theoretical Chemistry researcher. I work on force field development, with 
+special interest in studying ion-protein interactions. 
+
+Broadly, I am interested in applying methodology to biological systems
+and materials with emphasis on advancing health and advancing renewable energy
+efforts.
+I am strongly proficient in the use of most mainstream molecular dynamics 
+packages and their associated tools, e.g., NAMD, Charmm, and Amber. 
+Additionally, I am proficient in programming with various code, e.g. python, Tcl
+, and C++ with an emphasis to scientific computing tasks.
 
 ### Want to learn more have a look at my resume:
 
 {% include embedpdf.html file="/assets/resume.pdf" w=100 h="950" %}
 
-Also this was built with Jekyll, which you can learn about from:
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
